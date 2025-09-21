@@ -1,7 +1,7 @@
 # Battle-Field
 This is my first code project in the first semester python class at CMU.  
 
-This project is an interactive implementation of the classic game Battleship, built using a custom simulation framework. The program supports three main phases: automatic setup of the computer’s ships, interactive ship placement by the user, and full gameplay where both sides take turns guessing ship locations. 
+This project is an interactive implementation of the classic game Battleship, built using a custom simulation framework. The program supports three main phases: automatic setup of the computer’s ships, interactive ship placement by the user, and full gameplay where both sides take turns guessing ship locations. \n
 
 Setup Enemy Board – Generate grids, create and validate ships, place them randomly, and render the board.
 User Ship Placement – Allow the user to select ship locations via mouse clicks, validate ship placement, and update the board dynamically.
